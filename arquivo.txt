@@ -1,9 +1,11 @@
 Primeira linha do arquivo ...................
 
-AlteraÁ„o ao realizar o RESET
+Altera√ß√£o ao realizar o RESET
 
-AlteraÁ„o para ser mantida ao realizar o RESET.................
+Altera√ß√£o para ser mantida ao realizar o RESET.................
 
-AlteraÁ„o que aconteceu na olaaaaaaaaaaaaaa branch DEV
+Altera√ß√£o que aconteceu na olaaaaaaaaaaaaaa branch DEV
 
-AlteraÁ„o para exemplo de push
+Altera√ß√£o para exemplo de push
+
+Altera√ß√£o de outro dev
