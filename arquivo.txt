@@ -1,11 +1,11 @@
-Primeira linha do arquivo ...................
+﻿Primeira linha do arquivo ...................
 
-Alteração ao realizar o RESET
+Alteração ao realizafasfasfasfar o RESET
 
-Alteração para ser mantida ao realizar o RESET.................
+Alteração para ser mantida ao rsafsfasfsaealizar o RESET.................
+fa
+Alteração que aconteceu na olaaaaafasfsafasfsaaaaaaaaaa branch DEV
 
-Alteração que aconteceu na olaaaaaaaaaaaaaa branch DEV
-
-Alteração para exemplo de push
+Alteração para exemplo fasfsafsafsafsafasde push
 
 Alteração de outro dev
