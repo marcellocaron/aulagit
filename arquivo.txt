@@ -5,3 +5,5 @@ Alteração ao realizar o RESET
 Alteração para ser mantida ao realizar o RESET.................
 
 Alteração que aconteceu na olaaaaaaaaaaaaaa branch DEV
+
+Alteração para exemplo de push
