@@ -1,7 +1,2 @@
-Primeira linha do arquivo
-
-Alteração para ser mantida ao realizar o RESET
-
-Alteração para o stash
-
-Alteração que aconteceu na branch DEV
+Alteração para ser mantida ao realizar o RESET.................
+Alteração que aconteceu na olaaaaaaaaaaaaaa branch DEV
